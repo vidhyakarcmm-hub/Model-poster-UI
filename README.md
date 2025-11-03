@@ -1,10 +1,10 @@
 ## Model poster - Animated poster
-This poster is women model animated poster. 
+- This poster is women model animated poster. 
 
 ## Overview
-Goal : people attraction
-Tool : Fimga 
-Duration : 2 Days 
+- Goal : people attraction
+- Tool : Fimga 
+- Duration : 2 Days 
 
 ## Freatures
 - Clean layout 
